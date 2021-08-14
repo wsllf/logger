@@ -30,4 +30,4 @@ dependencies {
   testImplementation deps.kotlin
 }
 
-apply from: rootProject.file('gradle/maven_push.gradle')
+//apply from: rootProject.file('gradle/maven_push.gradle')
